@@ -84,8 +84,3 @@ rag-chatbot/
 | `GROQ_API_KEY` | Your Groq API key from console.groq.com |
 
 ---
-
-## 👨‍💻 Built By
-
-**Harshit Shastri** — Final Year AI/ML Student  
-[GitHub](https://github.com/harshitshastri2003) • [LinkedIn](https://linkedin.com/in/your-linkedin)
